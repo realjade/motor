@@ -1,17 +1,16 @@
 .content{
-    margin-top: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 .item{
     float: left;
-    width: 268px;
-    height: 200px;
+    height: 180px;
     margin-right: 10px;
     margin-top: 10px;
     position: relative;
 }
 .item img{
-    width: 268px;
-    height: 200px;
+    height: 180px;
     position: absolute;
     top: 0px;
 }

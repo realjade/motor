@@ -53,3 +53,15 @@ ul#menu li.active, ul#menu a:hover{
     width: 1117px;
     margin: 0 0 0 12px;
 }
+.w350{
+    width:350px;
+}
+.w300{
+    width: 300px;
+}
+.w220{
+    width: 220px;
+}
+.w200{
+    width: 200px;
+}
